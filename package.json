@@ -14,8 +14,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@emotion/react": "11.1.5",
-    "@emotion/styled": "11.1.5",
+    "@emotion/react": "11.13.3",
+    "@emotion/styled": "11.13.0",
     "cssnano": "4.1.10",
     "date-fns": "2.19.0",
     "emotion": "11.0.0",
